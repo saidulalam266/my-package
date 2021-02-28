@@ -1,0 +1,19 @@
+{
+    "name": "saidul/contact",
+    "description": "This is saidul's first package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "saidul",
+            "email": "saidulalam266@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Saidul\\Contact\\": "src/"
+        }
+    },
+}
